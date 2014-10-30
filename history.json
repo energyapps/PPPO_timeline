@@ -1,0 +1,725 @@
+
+{
+	"timeline":
+	{
+		"headline":"Paducah Gaseous Diffusion Plant",
+		"type":"default",
+		"text":"<p>Before WWII-2013</p>",
+		"asset": {
+			"media":"http://dev.pgdpcleanup.com/images/pgdp.jpg",
+			"credit":"US Department of Energy",
+			"caption":""
+		},
+		"date": [
+			{
+				"startDate":"1940",
+				"endDate":"1942",
+				"headline":"Before WWII",
+				"text":"<p>The area now occupied by the Paducah Site was used for agricultural purposes; numerous small farms produced various grain crops and provided pasture for livestock</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1940.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1940.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1942",
+				"endDate":"1945",
+				"headline":"During World War II",
+				"text":"<p>During World War II, the land that would become the Paducah Site was part of the 16,126-acre tract assembled for construction of the Kentucky Ordnance Works (KOW)</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1942.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1942.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1950",
+				"endDate":"1950",
+				"headline":"Expand Capacity",
+				"text":"<p>The U.S. Department of Defense (DoD) and the U.S. Department of Energy's (DOE) predecessor, the Atomic Energy Commission, began efforts to expand fissionable material production capacity. Eight government-owned sites initially were selected as candidate areas. </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1950-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1950-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1950,10,18",
+				"endDate":"1950,10,18",
+				"headline":"Paducah Site Approved",
+				"text":"<p>On October 18, 1950, the Paducah Site was approved for uranium enrichment operations and the site was transferred to the Atomic Energy Commission. </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1950.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1950.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1951,01,02",
+				"endDate":"1951,01,02",
+				"headline":"Construction Begins",
+				"text":"<p></p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1951.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1951.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1952,09",
+				"endDate":"1952,09",
+				"headline":"Plant operations begin",
+				"text":"<p>Plant operations begin using reprocessed material from other nuclear facilities.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1952.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1952.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1952,11",
+				"endDate":"1952,11",
+				"headline":"First Product Shipped",
+				"text":"<p>First enriched uranium product shipped. AEC announced plans to enlarge the plant to double production.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1952-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1952-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1953",
+				"endDate":"1953",
+				"headline":"9.7 million megawatt hours",
+				"text":"<p>PGDP used 9.7 million megawatt hours of electricity and spent of $49.5 million for its power supply for that year. Recycled uranium from nuclear reactors becomes feed material into the Plant's enrichment 'cascade' requiring DUF6 conversion process</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1953.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1953.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1956",
+				"endDate":"1956",
+				"headline":"Construction Completed",
+				"text":"<p>Construction of PGDP completed - it took 23,000 employees representing 19 crafts; total project cost $800 million.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1956.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1956.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1958",
+				"endDate":"1958",
+				"headline":"Work for Others Begins",
+				"text":"<p>Work for Others program begins; over next 30 years it includes work on out of service nuclear weapons, lead doors, counterweights, lunar lander components for NASA, shielding for ORNL, electronics for Sandia, and more</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1958-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1958-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1962",
+				"endDate":"1962",
+				"headline":"Conversion Process",
+				"text":"<p>Conversion Process for DUF6 to Uranium Metal in the C-340 facility was shut down</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1962-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1962-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1964",
+				"endDate":"1964",
+				"headline":"Cascade Feed Material Switched",
+				"text":"<p>Cascade feed material switched to UF6 made from virgin-mined uranium</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1964.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1964.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1965",
+				"endDate":"1965",
+				"headline":"PGDP Shifts",
+				"text":"<p>PGDP shifts from military mission to commercial application to supply enriched uranium to nuclear power plants</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1965-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1965-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1965",
+				"endDate":"1965",
+				"headline":"Metal Ingots",
+				"text":"<p>East and West End Smelters installed (Work for Others program); smelts reusable and contaminated metals into ingots</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1965.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1965.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1969",
+				"endDate":"1976",
+				"headline":"Recycled Uranium",
+				"text":"<p>Use of recycled uranium resumed in 1969 and continued through 1976 </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1969.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1969.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1970",
+				"endDate":"1970",
+				"headline":"EPA Established",
+				"text":"<p>EPA was established to consolidate in one agency a variety of federal research, monitoring, standard-setting and enforcement activities to ensure environmental protection</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/epa.png",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/epa.png",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1971",
+				"endDate":"1980",
+				"headline":"Cascade Upgrade",
+				"text":"<p>Major upgrade of plant cascades over next nine years- cost $550 million</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1971-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1971-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1975",
+				"endDate":"1975",
+				"headline":"Test Biodegradation",
+				"text":"<p>Land-farming of waste oils contaminated with uranium, PCBs, and solvents begins to test biodegradation as a treatment option</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1975.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1975.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1976",
+				"endDate":"1976",
+				"headline":"Recycling Uranium Halted",
+				"text":"<p>The practice of recycling uranium feed material from nuclear reactors was halted and never resumed</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1976-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1976-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1977",
+				"endDate":"1977",
+				"headline":"Feed Plant Shutdown",
+				"text":"<p>Feed plant in the C-410/420 complex is shut down </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1977.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1977.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1977",
+				"endDate":"1977",
+				"headline":"Energy Research",
+				"text":"<p>Functions of the Energy Research &amp; Development Administration transferred to the newly created Department of Energy</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1977-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1977-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1979",
+				"endDate":"1979",
+				"headline":"Cylinder Testing",
+				"text":"<p>Freezing process used in drop testing for structural integrity of cylinders</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1979.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1979.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1980",
+				"endDate":"1980",
+				"headline":"CERCLA Law",
+				"text":"<p>Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) was enacted by Congress providing guidelines and procedure needed to respond to releases or threatened releases of hazardous substances that could endanger public health or the environment</p>",
+				"tag":"",
+				"asset": {
+					"media":"",
+					"thumbnail":"",
+					"credit":"",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1983",
+				"endDate":"1983",
+				"headline":"PCB Cleanup Action",
+				"text":"<p>Discovery of high PCB levels in ditch leads to cleanup action with ~ 1,300 drums removed</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1983.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1983.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1986",
+				"endDate":"1986",
+				"headline":"TCE Leak Discovered",
+				"text":"<p>Discovery of RCRA-hazardous waste results in closure/capping of C 404 Burial Ground. Discovery of TCE overflow into sewer - TCE later determined to be primary groundwater contaminant</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1986.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1986.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1988",
+				"endDate":"1988",
+				"headline":"TCE Contamination Discovered",
+				"text":"<p>Contamination found in residential wells; extension of city water lines begins - DOE Water Policy established; CERCLA Administrative Consent order with EPA</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1988.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1988.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1989",
+				"endDate":"1989",
+				"headline":"Environmental Management Program",
+				"text":"<p>DOE established the Environmental Management program to address the contamination and waste created by nuclear weapons production, research, and testing activities during the Manhattan Project and the Cold War era consistent with applicable environmental laws</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/doe_logo.png",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/doe_logo.png",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1991",
+				"endDate":"1991",
+				"headline":"CERCLA Site",
+				"text":"<p>Phase II of CERCLA site investigation to determine on-site source areas begins</p>",
+				"tag":"",
+				"asset": {
+					"media":"",
+					"thumbnail":"",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1991",
+				"endDate":"1991",
+				"headline":"Signs Posted",
+				"text":"<p>Controls put in place and signs posted to inform individuals of harmful contaminants</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1991.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1991.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1992",
+				"endDate":"1992",
+				"headline":"Energy Policy Act",
+				"text":"<p>Energy Policy Act creates USEC to take over government uranium enrichment enterprise</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1992.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1992.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1993",
+				"endDate":"1993",
+				"headline":"USEC Leasing",
+				"text":"<p>DOE leased the plant production operation facilities to United States Enrichment Corporation (USEC) </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1993-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1993-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1993",
+				"endDate":"1993",
+				"headline":"Treatment Systems",
+				"text":"<p>DOE begins construction of treatment systems to remove TCE from groundwater; more than 2 billion gallons treated in first 15 years of operation</p> ",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1993.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1993.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1994",
+				"endDate":"1994",
+				"headline":"EPA National Priorities List",
+				"text":"<p>Paducah added to EPA National Priorities List (Superfund Site)</p>",
+				"tag":"",
+				"asset": {
+					"media":"",
+					"thumbnail":"",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1994",
+				"endDate":"1994",
+				"headline":"Contaminated Discharge Rerouted",
+				"text":"<p>Contaminated discharge water coming from a maintenance building is rerouted from a drainage ditch to a series of pipes</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1994.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1994.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1996",
+				"endDate":"1996",
+				"headline":"Removing TCE Contamination",
+				"text":"<p>Development begins on a technology to remove TCE contamination from soils without excavation. Called Lasagna<sup>TM</sup>, the technology is designed for use in Paducah and proves more than 98% effective</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1995.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1995.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1997",
+				"endDate":"1997",
+				"headline":"New Concrete Pads",
+				"text":"<p>Construction begins on new concrete pads to improve storage conditions for cylinders containing depleted uranium hexafluoride</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1997.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1997.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1997",
+				"endDate":"1997",
+				"headline":"U-Landfill Constructed",
+				"text":"<p>U-Landfill is constructed - solid waste landfill covers 59.7 acres and includes a liner and leachate collection system </p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1997-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1997-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"1998",
+				"endDate":"1998",
+				"headline":"FFA Signed",
+				"text":"<p>Federal Facility Agreement signed, establishing cleanup schedule. USEC becomes privatized.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/1998.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/1998.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2000",
+				"endDate":"2000",
+				"headline":"Removal of Drum Mountain",
+				"text":"<p>Removal of Drum Mountain, a 35-foothigh mound of crushed drums from cascade upgrade in 1970s,found to be a major source of PCB contamination</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2000.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2000.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2001",
+				"endDate":"2001",
+				"headline":"USEC Consolidates",
+				"text":"<p>USEC consolidates all enrichment activity to Paducah</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2001.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2001.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2002",
+				"endDate":"2002",
+				"headline":"Contaminated Soils are Excavated",
+				"text":"<p>Contaminated soils are excavated from a drainage ditch running through the center of the plant and replaced with clean dirt</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2002.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2002.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2003",
+				"endDate":"2003",
+				"headline":"Miscellaneous Waste Removed",
+				"text":"<p>Removal of miscellaneous wastes and debris form 160 storage areas begins; 18 of the areas were located outside</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2003.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2003.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2004",
+				"endDate":"2004",
+				"headline":"Unused Facilities Removal",
+				"text":"<p>Began accelerated removal of unused facilities with no potential for future use</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2004.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2004.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2004",
+				"endDate":"2004",
+				"headline":"Site Management Plan",
+				"text":"<p>Site Management Plan approved by regulators</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2004-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2004-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2005",
+				"endDate":"2005",
+				"headline":"Nitrogen Facility Demolition",
+				"text":"<p>Completed D&D of C-603 Nitrogen Facility</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2005.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2005.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2006",
+				"endDate":"2006",
+				"headline":"Lime House Demolition",
+				"text":"<p>Demolition of the Lime House completed</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2006.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2006.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2007",
+				"endDate":"2007",
+				"headline":"Scrap Metal Removal",
+				"text":"<p>Removal of more than 30,500 tons of scrap metal completed</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2007.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2007.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2008",
+				"endDate":"2008",
+				"headline":"Completed DUF6 Facility Construction",
+				"text":"<p>Completed Paducah Depleted Uranium Hexafluoride (DUF6) facility construction to convert the DUF6 into Uranium oxide for disposall</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2008-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2008-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2008",
+				"endDate":"2008",
+				"headline":"C-400 Phase I",
+				"text":"<p>Ammonia Dissociator Facility demolished. Construction begans on treatment system to remove TCE from 100 feet below ground</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2008.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2008.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2009",
+				"endDate":"2009",
+				"headline":"Accelerated D&D Work",
+				"text":"<p>Demolished two 66-year-old concrete water towers in WKWMA. Removed lead-contaminated soil from Firing Range. Shipped for disposal all of mixed LLW 'legacy waste.'</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2009.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2009.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2010",
+				"endDate":"2010",
+				"headline":"TCE Source Removal System",
+				"text":"<p>Began operations of TCE Source Removal System. Completed demolition of East End Smelter and Metal Reduction Plant support facilities. Completed removal of HF Lagoon and contaminated soils/sediments from site ditches.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2010.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2010.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2011",
+				"endDate":"2011",
+				"headline":"DUF6 Fully Operational",
+				"text":"<p>DUF6 Conversion Facility reached fully operational status</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2011-1.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2011-1.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			},
+			{
+				"startDate":"2013",
+				"endDate":"2013",
+				"headline":"Uranium Enrichment Ends",
+				"text":"<p>Uranium enrichment process ends after 61 years of operations.</p>",
+				"tag":"",
+				"asset": {
+					"media":"http://dev.pgdpcleanup.com/images/2013.jpg",
+					"thumbnail":"http://dev.pgdpcleanup.com/images/2013.jpg",
+					"credit":"US Department of Energy",
+					"caption":""
+				}
+			}
+			
+		],
+		"era": [
+			{
+				"startDate":"2011,12,10",
+				"endDate":"2011,12,11",
+				"headline":"",
+				"tag":"optional"
+			}
+			
+		],
+		"chart": [
+			{
+				"startDate":"2011,12,10",
+				"endDate":"2011,12,11",
+				"headline":"Headline for Chart Goes Here",
+				"value":"28"
+			}
+			
+		]
+		
+	}
+}
