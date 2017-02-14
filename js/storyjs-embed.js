@@ -1,10 +1,10 @@
 /*!
-	StoryJS
-	Designed and built by Zach Wise at VéritéCo
+    StoryJS
+    Designed and built by Zach Wise at VéritéCo
 
-	This Source Code Form is subject to the terms of the Mozilla Public
-	License, v. 2.0. If a copy of the MPL was not distributed with this
-	file, You can obtain one at http://mozilla.org/MPL/2.0/.
+    This Source Code Form is subject to the terms of the Mozilla Public
+    License, v. 2.0. If a copy of the MPL was not distributed with this
+    file, You can obtain one at http://mozilla.org/MPL/2.0/.
 *//* **********************************************
      Begin LazyLoad.js
 ********************************************** *//*jslint browser: true, eqeqeq: true, bitwise: true, newcap: true, immed: true, regexp: false *//*
@@ -150,11 +150,11 @@ function createStoryJS(e, t) {
             css: embed_path + "css/",
             js: embed_path + "js/",
             locale: embed_path + "js/locale/",
-            jquery: "http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+            jquery: "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
             font: {
                 google: !1,
                 css: embed_path + "css/themes/font/",
-                js: "http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"
+                js: "https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"
             }
         }, h = {
             version: u,
